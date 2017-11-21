@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251354561198",
+    "firebase_url": "https://appestadia.firebaseio.com",
+    "project_id": "appestadia",
+    "storage_bucket": "appestadia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251354561198:android:c964f3a0f19aaaa5",
+        "android_client_info": {
+          "package_name": "com.example.marcospedraza.proyectoestadia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251354561198-f523d2ulk9jkpnrk71ake1ph9708mmjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marcospedraza.proyectoestadia",
+            "certificate_hash": "c9b2d7407fb82a9c4cc4e1f02a56daa815050a59"
+          }
+        },
+        {
+          "client_id": "251354561198-l5i7gh7otkp82ulithtkbg4e6gni3cdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6BI8wriBgbokDGWrrIJCHqGWjQVp0jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251354561198-l5i7gh7otkp82ulithtkbg4e6gni3cdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

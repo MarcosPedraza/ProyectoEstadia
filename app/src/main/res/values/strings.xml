@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProyectoEstadia</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home_item">Home</string>
+    <string name="Lugeres_item">lugares</string>
+    <string name="Eventos_item">Eventos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
